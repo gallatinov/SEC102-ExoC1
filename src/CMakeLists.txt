@@ -13,3 +13,6 @@ endif()
 
 add_subdirectory(listdir)
 add_subdirectory(listproc)
+add_subdirectory(wininet)
+add_subdirectory(sock)
+add_subdirectory(rot13)
